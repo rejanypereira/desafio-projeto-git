@@ -22,4 +22,4 @@ Git checkout
 É o comando utilizado para trocar de branch passando o nome da branch destino no final do comando. Caso a flag -b seja colocada após o “checkout” é possível criar a branch em questão e já trocar para esta imediatamente.
 
 
-Fonte
+Fonte: https://www.digitalhouse.com/br/blog/principais-comandos-git/
